@@ -86,6 +86,7 @@ You can modify the `ArticleGenerator` class to:
 ## Future Plans
 
 - [ ] Add a research mode for factual context
+- [ ] Better System Prompts
 - [ ] Add tone selection (professional, casual, educational, etc.)
 - [ ] Vary article types by intent (how-to, listicle, news, etc.)
 - [ ] Add SEO scoring algorithm
