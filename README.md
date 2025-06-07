@@ -1,4 +1,4 @@
-# AI Content Generator
+# AI Blog Articles Generator
 
 A Python tool that generates SEO-optimized articles with AI based on user topics, preferred length, and backlinks.
 
@@ -159,10 +159,12 @@ The mini post-processor will:
 - [x] Add option to use Gemini instead of Together AI for generating image descriptions
 - [x] Add lightweight post-processor using Pexels API for direct image sourcing
 - [ ] Add a research mode for factual context
+- [ ] Better System Prompts
 - [ ] Add tone selection (professional, casual, educational, etc.)
 - [ ] Vary article types by intent (how-to, listicle, news, etc.)
 - [ ] Add SEO scoring algorithm
 - [ ] Add competitor analysis
+- [ ] Add bulk mode - generate {num} articles from a topic variation
 - [ ] Switch to Langraph and Process it as a State
 
 ## License
