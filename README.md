@@ -1,4 +1,4 @@
-# AI Content Generator
+# AI Blog Articles Generator
 
 A Python tool that generates SEO-optimized articles with AI based on user topics, preferred length, and backlinks.
 
@@ -10,6 +10,7 @@ A Python tool that generates SEO-optimized articles with AI based on user topics
 - Include SEO-optimized images with alt text
 - Export to MDX format with proper frontmatter
 - Easily Swap Out Models - Currently Gemini Models
+- Run as a terminal tool
 
 ## Installation
 
@@ -89,6 +90,7 @@ You can modify the `ArticleGenerator` class to:
 - [ ] Vary article types by intent (how-to, listicle, news, etc.)
 - [ ] Add SEO scoring algorithm
 - [ ] Add competitor analysis
+- [ ] Add bulk mode - generate {num} articles from a topic variation
 - [ ] Switch to Langraph and Process it as a State
 
 ## License
